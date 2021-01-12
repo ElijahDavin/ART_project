@@ -1,0 +1,89 @@
+body {
+	background-color: #f6f6f6;
+}
+
+html {
+	background-color: #f6f6f6;
+}
+
+#painting {
+	height: 400px;
+	width: 400px;
+	background-color: pink;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	box-shadow: 3px 5px grey;
+}
+
+#toprow {
+	height: 290px;
+
+}
+
+#redbox{
+	width: 290px;
+	height:290px;
+
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.black {
+	background-color: black;
+} 
+
+.right {
+	float: right;
+}
+
+#divider {
+	width: 10px;
+	height: 400px;
+}
+
+#leftcolumn {
+}
+
+.boxcolumns {
+	height: 140px;
+	width: 100px;
+}
+
+#smalldivider {
+	height: 10px;
+	width: 100px;
+}
+
+#bottomdivider{
+	height: 10px;
+	width: 400px;
+}
+
+.purple {
+	background-color: purple;
+}
+
+.brown {
+	background-color: brown;
+}
+
+.botcolumns {
+	height: 100px;
+	width: 100px;
+}
+
+#smalldivider2 {
+	height: 100px;
+	width: 10px;
+}
